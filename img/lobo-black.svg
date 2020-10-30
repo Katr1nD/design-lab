@@ -1,0 +1,30 @@
+<svg id="SVGDoc" width="69" height="70" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:avocode="https://avocode.com/" viewBox="0 0 69 70">
+<defs>
+<clipPath id="ClipPath1018">
+<path d="M63.67451,67.85691v0l-28.81439,-54.99701v0l-28.81428,54.99701v0z" fill="#000000">
+</path>
+</clipPath>
+<clipPath id="ClipPath1025">
+<path d="M34.49998,-0.00001c18.50155,0 33.49995,14.8705 33.49995,33.21429c0,18.34351 -14.9984,33.21429 -33.49995,33.21429c-18.50155,0 -33.50006,-14.87078 -33.50006,-33.21429c0,-18.34379 14.99851,-33.21429 33.50006,-33.21429z" fill="#000000">
+</path>
+</clipPath>
+</defs>
+<desc>Generated with Avocode.</desc>
+<g><g>
+<title>logo.svg</title>
+<g>
+<title>Rectangle 1</title>
+<path d="M63.67451,67.85691v0l-28.81439,-54.99701v0l-28.81428,54.99701v0z" fill-opacity="0" fill="#000000" stroke-dashoffset="0" stroke-dasharray="" stroke-linejoin="miter" stroke-linecap="butt" stroke-opacity="1" stroke="#000000" stroke-miterlimit="20" stroke-width="4" clip-path="url(&quot;#ClipPath1018&quot;)">
+</path></g><g>
+<title>Ellipse 1</title>
+<path d="M34.49998,-0.00001c18.50155,0 33.49995,14.8705 33.49995,33.21429c0,18.34351 -14.9984,33.21429 -33.49995,33.21429c-18.50155,0 -33.50006,-14.87078 -33.50006,-33.21429c0,-18.34379 14.99851,-33.21429 33.50006,-33.21429z" fill-opacity="0" fill="#000000" stroke-dashoffset="0" stroke-dasharray="" stroke-linejoin="miter" stroke-linecap="butt" stroke-opacity="1" stroke="#000000" stroke-miterlimit="20" stroke-width="4" clip-path="url(&quot;#ClipPath1025&quot;)">
+</path></g><g>
+<title>Ellipse 1 copy 8</title>
+<path d="M34.86012,62.85698c1.98944,0 3.60214,1.59897 3.60214,3.57158c0,1.97233 -1.6127,3.5713 -3.60214,3.5713c-1.98933,0 -3.60214,-1.59897 -3.60214,-3.5713c0,-1.97261 1.61282,-3.57158 3.60214,-3.57158z" fill="#000000" fill-opacity="1">
+</path></g><g>
+<title>Ellipse 1 copy 9</title>
+<path d="M61.51604,62.85698c1.98944,0 3.60214,1.59897 3.60214,3.57158c0,1.97233 -1.6127,3.5713 -3.60214,3.5713c-1.98944,0 -3.60214,-1.59897 -3.60214,-3.5713c0,-1.97261 1.6127,-3.57158 3.60214,-3.57158z" fill="#000000" fill-opacity="1">
+</path></g><g>
+<title>Ellipse 1 copy 11</title>
+<path d="M6.04298,62.85698c1.98933,0 3.60214,1.59897 3.60214,3.57158c0,1.97233 -1.61282,3.5713 -3.60214,3.5713c-1.98944,0 -3.60214,-1.59897 -3.60214,-3.5713c0,-1.97261 1.6127,-3.57158 3.60214,-3.57158z" fill="#000000" fill-opacity="1">
+</path></g></g></g></svg>
