@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
 
 html {
     height: 100%;
@@ -115,7 +116,7 @@ legend {
 /* OUR-WORKS */
 
 .our-works {
-    padding`-top: 0;
+    padding-top: 0;
     display: grid;
     grid-template-columns: 1fr 1.5fr 1fr;
     grid-template-rows: 1fr 1fr;
@@ -133,6 +134,11 @@ legend {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+    opacity: 0.8;
+}
+
+.our-works__parts:hover {
+    opacity: 1;
 }
 
 .our-works__title {
@@ -155,6 +161,33 @@ legend {
     text-transform: uppercase;
     margin-bottom: 25px;
 }
+
+.contact__button:hover,
+.contact__button:focus {
+    animation: pulse 2s ease-in-out;
+    box-shadow: 0 0 0 2em rgba(#ffffff, 0);
+}
+
+@keyframes pulse {
+    0% {
+        transform: scale(1);
+        box-shadow: 0 0 0 0 rgba(171, 181, 202, 0.7);
+    }
+
+    80% {
+        transform: scale(1.1);
+        box-shadow: 0 0 0 15px rgba(171, 181, 202, 0);
+    }
+
+    90% {
+        transform: scale(1.05);
+    }
+
+    100% {
+        transform: scale(1);
+    }
+}
+
 
 /* FOOTER */
 
